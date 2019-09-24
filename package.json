@@ -50,6 +50,7 @@
   },
   "homepage": "https://github.com/skygragon/leetcode-cli#readme",
   "dependencies": {
+    "@types/node": "^12.7.5",
     "ansi-styles": "3.2.1",
     "cheerio": "0.20.0",
     "he": "1.2.0",
